@@ -7,4 +7,6 @@ Enum-IOCTL-Codes - tool for looping through all IOCTL codes 0x00000000 though 0x
 
 GetDeviceSymLinkName - used in tandam with EnumDevices for the Symbolic link name used with CreateFile and DeviceIoControl()
 
+Fuzz_Drivers - libfuzz example against a physical disk device.
+
 LibFuzzDeviceIoControl - Bare bones code that allows us to fuzz said drivers using found IOCTL codes and random structure data. Includes pre-compiled DLL's needed to run our libfuzz compiled binaries. Also includes a build script.
