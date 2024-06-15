@@ -1,0 +1,1090 @@
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume6 
+Device Description:
+ HID-compliant vendor-defined device 
+Device Location Path:
+ \\.\00000078 
+Device Description:
+ Motherboard resources 
+Device Location Path:
+ \\.\00000048 
+Device Description:
+ System timer 
+Device Location Path:
+ \\.\00000045 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0021 
+Friendly Name:
+ AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft) 
+Device Description:
+ USB xHCI Compliant Host Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0045 
+Device Description:
+ USB Composite Device 
+Device Location Path:
+ \\.\USBPDO-6 
+Device Description:
+ HID Keyboard Device 
+Device Location Path:
+ \\.\00000057 
+Device Description:
+ Microsoft Bluetooth Enumerator 
+Device Location Path:
+ \\.\00000081 
+Friendly Name:
+ Realtek Hardware Support Application 
+Device Description:
+ Realtek Hardware Support Application 
+Device Location Path:
+ \\.\00000068 
+Friendly Name:
+ Root Print Queue 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000a5 
+Friendly Name:
+ Logitech BRIO 
+Device Description:
+ USB Audio Device 
+Device Location Path:
+ \\.\00000060 
+Friendly Name:
+ AirPods Pro 
+Device Description:
+ Bluetooth Device 
+Device Location Path:
+ \\.\0000025c 
+Device Description:
+ Volume Manager 
+Device Location Path:
+ \\.\00000001 
+Device Description:
+ High precision event timer 
+Device Location Path:
+ \\.\00000020 
+Device Description:
+ PCI Express Downstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0037 
+Friendly Name:
+ SAMSUNG (NVIDIA High Definition Audio) 
+Device Description:
+ Audio Endpoint 
+Device Location Path:
+ \\.\00000404 
+Device Description:
+ PCI Express Downstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0038 
+Device Description:
+ USB Composite Device 
+Device Location Path:
+ \\.\USBPDO-7 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume4 
+Device Description:
+ Standard SATA AHCI Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0047 
+Friendly Name:
+ Fax 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000ac 
+Friendly Name:
+ OneNote (Desktop) 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000a9 
+Device Description:
+ PCI Express Upstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0026 
+Device Description:
+ Bluetooth Device (RFCOMM Protocol TDI) 
+Device Location Path:
+ \\.\00000080 
+Device Description:
+ Corsair composite virtual input device 
+Device Location Path:
+ \\.\00000056 
+Friendly Name:
+ WAN Miniport (PPPOE) 
+Device Description:
+ WAN Miniport (PPPOE) 
+Device Location Path:
+ \\.\0000009c 
+Friendly Name:
+ Bluetooth Device (Personal Area Network) 
+Device Description:
+ Bluetooth Device (Personal Area Network) 
+Device Location Path:
+ \\.\00000082 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0018 
+Device Description:
+ Microsoft Basic Display Driver 
+Device Location Path:
+ \\.\00000002 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0002 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0003 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0006 
+Friendly Name:
+ Realtek Asio Component 
+Device Description:
+ Realtek Asio Component 
+Device Location Path:
+ \\.\00000067 
+Device Description:
+ AMD GPIO Controller 
+Device Location Path:
+ \\.\00000021 
+Device Description:
+ USB Root Hub (USB 3.0) 
+Device Location Path:
+ \\.\USBPDO-0 
+Device Description:
+ PCI Express Downstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0040 
+Friendly Name:
+ TAP-NordVPN Windows Adapter V9 
+Device Description:
+ TAP-NordVPN Windows Adapter V9 
+Device Location Path:
+ \\.\00000003 
+Friendly Name:
+ NordLynx Tunnel 
+Device Description:
+ NordLynx Tunnel 
+Device Location Path:
+ \\.\00000004 
+Friendly Name:
+ VirtualBox Host-Only Ethernet Adapter 
+Device Description:
+ VirtualBox Host-Only Ethernet Adapter 
+Device Location Path:
+ \\.\00000005 
+Device Description:
+ UMBus Enumerator 
+Device Location Path:
+ \\.\00000086 
+Device Description:
+ Standard SATA AHCI Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0034 
+Friendly Name:
+ OneNote for Windows 10 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000a8 
+Device Description:
+ USB Root Hub (USB 3.0) 
+Device Location Path:
+ \\.\USBPDO-2 
+Friendly Name:
+ Microsoft RRAS Root Enumerator 
+Device Description:
+ Generic software device 
+Device Location Path:
+ \\.\00000097 
+Device Description:
+ PCI standard ISA bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0016 
+Device Description:
+ Microsoft Windows Management Interface for ACPI 
+Device Location Path:
+ \\.\00000023 
+Device Description:
+ Motherboard resources 
+Device Location Path:
+ \\.\0000004a 
+Friendly Name:
+ DTS Audio Effects Component 
+Device Description:
+ DTS APO3x 
+Device Location Path:
+ \\.\00000064 
+Friendly Name:
+ VMware Virtual Ethernet Adapter for VMnet1 
+Device Description:
+ VMware Virtual Ethernet Adapter for VMnet1 
+Device Location Path:
+ \\.\00000006 
+Friendly Name:
+ VMware Virtual Ethernet Adapter for VMnet8 
+Device Description:
+ VMware Virtual Ethernet Adapter for VMnet8 
+Device Location Path:
+ \\.\00000007 
+Friendly Name:
+ Brother MFC-L2730DW series [b422003cd83b] 
+Device Description:
+ WSD Scan Device 
+Device Location Path:
+ \\.\000003e3 
+Device Description:
+ PCI Express Downstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0039 
+Friendly Name:
+ WAN Miniport (PPTP) 
+Device Description:
+ WAN Miniport (PPTP) 
+Device Location Path:
+ \\.\0000009b 
+Friendly Name:
+ AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft) 
+Device Description:
+ USB xHCI Compliant Host Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0031 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\00000070 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0010 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0012 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0013 
+Device Description:
+ PCI Express Root Port 
+Device Location Path:
+ \\.\NTPNP_PCI0014 
+Device Description:
+ Microsoft Hyper-V Virtualization Infrastructure Driver 
+Device Location Path:
+ \\.\00000008 
+Device Description:
+ AMD PSP 11.0 Device 
+Device Location Path:
+ \\.\NTPNP_PCI0030 
+Friendly Name:
+ AirPods Pro Hands-Free AG Audio 
+Device Description:
+ Microsoft Bluetooth Hands-Free Audio device 
+Device Location Path:
+ \\.\00000263 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0000 
+Friendly Name:
+ WAN Miniport (IKEv2) 
+Device Description:
+ WAN Miniport (IKEv2) 
+Device Location Path:
+ \\.\00000099 
+Device Description:
+ Composite Bus Enumerator 
+Device Location Path:
+ \\.\00000009 
+Device Description:
+ Microsoft Virtual Drive Enumerator 
+Device Location Path:
+ \\.\0000000a 
+Device Description:
+ NVIDIA High Definition Audio 
+Device Location Path:
+ \\.\00000058 
+Device Description:
+ Service Discovery Service 
+Device Location Path:
+ \\.\00000262 
+Friendly Name:
+ Brother MFC-L2730DW series Printer 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000003e6 
+Friendly Name:
+ AURA LED Controller 
+Device Description:
+ WinUsb Device 
+Device Location Path:
+ \\.\00000073 
+Device Description:
+ System Firmware 
+Device Location Path:
+ \\.\00000055 
+Device Description:
+ Microsoft Storage Spaces Controller 
+Device Location Path:
+ \\.\0000000b 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0023 
+Device Description:
+ AMD SMBus 
+Device Location Path:
+ \\.\NTPNP_PCI0015 
+Device Description:
+ HID-compliant vendor-defined device 
+Device Location Path:
+ \\.\00000072 
+Device Description:
+ Brother Laser Type1 Class Driver 
+Device Location Path:
+ \\.\000003e5 
+Friendly Name:
+ Communications Port (COM1) 
+Device Description:
+ Communications Port 
+Device Location Path:
+ \\.\00000049 
+Friendly Name:
+ Microsoft XPS Document Writer 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000ab 
+Friendly Name:
+ Microsoft Kernel Debug Network Adapter 
+Device Description:
+ Microsoft Kernel Debug Network Adapter 
+Device Location Path:
+ \\.\0000000c 
+Device Description:
+ Generic volume shadow copy 
+Device Location Path:
+ \\.\HarddiskVolumeShadowCopy12 
+Device Description:
+ AMD PCI 
+Device Location Path:
+ \\.\NTPNP_PCI0049 
+Device Description:
+ UMBus Enumerator 
+Device Location Path:
+ \\.\0000008a 
+Device Description:
+ Logitech BRIO 
+Device Location Path:
+ \\.\USBPDO-3 
+Device Description:
+ Standard SATA AHCI Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0033 
+Device Description:
+ HID-compliant system controller 
+Device Location Path:
+ \\.\00000076 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0020 
+Device Description:
+ Windows Hello Face Software Device 
+Device Location Path:
+ \\.\0000000d 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0001 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0004 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0005 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0007 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0008 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0009 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0011 
+Friendly Name:
+ Brother MFC-L2730DW series [b422003cd83b] 
+Device Description:
+ WSD Print Device 
+Device Location Path:
+ \\.\000003e2 
+Device Description:
+ System CMOS/real time clock 
+Device Location Path:
+ \\.\00000046 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\00000071 
+Device Description:
+ AAP Server 
+Device Location Path:
+ \\.\0000025d 
+Device Description:
+ UMBus Root Bus Enumerator 
+Device Location Path:
+ \\.\0000000e 
+Device Description:
+ NVIDIA GeForce RTX 3080 
+Device Location Path:
+ \\.\NTPNP_PCI0027 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\0000006e 
+Friendly Name:
+ Microsoft Radio Device Enumeration Bus 
+Device Description:
+ Generic software device 
+Device Location Path:
+ \\.\0000008d 
+Friendly Name:
+ Logitech BRIO 
+Device Description:
+ Logitech BRIO 
+Device Location Path:
+ \\.\0000005f 
+Device Description:
+ Programmable interrupt controller 
+Device Location Path:
+ \\.\00000043 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\00000061 
+Device Description:
+ System board 
+Device Location Path:
+ \\.\00000040 
+Friendly Name:
+ Microsoft Device Association Root Enumerator 
+Device Description:
+ Generic software device 
+Device Location Path:
+ \\.\00000087 
+Friendly Name:
+ RAS Async Adapter 
+Device Description:
+ RAS Async Adapter 
+Device Location Path:
+ \\.\KSENUM#00000002 
+Device Description:
+ ACPI x64-based PC 
+Device Location Path:
+ \\.\0000000f 
+Friendly Name:
+ Brother MFC-L2730DW series [b422003cd83b] 
+Device Description:
+ Generic software device 
+Device Location Path:
+ \\.\000003e1 
+Friendly Name:
+ WAN Miniport (Network Monitor) 
+Device Description:
+ WAN Miniport (Network Monitor) 
+Device Location Path:
+ \\.\0000009f 
+Friendly Name:
+ WAN Miniport (IP) 
+Device Description:
+ WAN Miniport (IP) 
+Device Location Path:
+ \\.\0000009d 
+Device Description:
+ Microsoft Windows Management Interface for ACPI 
+Device Location Path:
+ \\.\0000003e 
+Device Description:
+ Microsoft Windows Management Interface for ACPI 
+Device Location Path:
+ \\.\0000001d 
+Device Description:
+ PCI Express Root Complex 
+Device Location Path:
+ \\.\0000001e 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0017 
+Device Description:
+ Intel(R) Wireless Bluetooth(R) 
+Device Location Path:
+ \\.\USBPDO-4 
+Device Description:
+ AMD PCI 
+Device Location Path:
+ \\.\NTPNP_PCI0029 
+Friendly Name:
+ Realtek Gaming GbE Family Controller 
+Device Description:
+ Realtek Gaming GbE Family Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0043 
+Device Description:
+ USB Composite Device 
+Device Location Path:
+ \\.\USBPDO-5 
+Friendly Name:
+ AirPods Pro Avrcp Transport 
+Device Description:
+ Microsoft Bluetooth Avrcp Transport Driver 
+Device Location Path:
+ \\.\0000025f 
+Device Description:
+ HID-compliant vendor-defined device 
+Device Location Path:
+ \\.\0000007e 
+Device Description:
+ Microsoft ACPI-Compliant System 
+Device Location Path:
+ \\.\0000001b 
+Device Description:
+ Microsoft Basic Render Driver 
+Device Location Path:
+ \\.\00000010 
+Device Description:
+ HID-compliant vendor-defined device 
+Device Location Path:
+ \\.\0000007d 
+Friendly Name:
+ Remote Desktop Camera Bus 
+Device Description:
+ UMBus Enumerator 
+Device Location Path:
+ \\.\0000008b 
+Friendly Name:
+ DTS Audio Hardware Support Application 
+Device Description:
+ DTS Custom HSA 
+Device Location Path:
+ \\.\00000065 
+Device Description:
+ UMBus Enumerator 
+Device Location Path:
+ \\.\00000089 
+Device Description:
+ Direct memory access controller 
+Device Location Path:
+ \\.\00000044 
+Friendly Name:
+ WAN Miniport (SSTP) 
+Device Description:
+ WAN Miniport (SSTP) 
+Device Location Path:
+ \\.\00000098 
+Device Description:
+ HID-compliant system controller 
+Device Location Path:
+ \\.\0000007c 
+Device Description:
+ Microsoft UEFI-Compliant System 
+Device Location Path:
+ \\.\0000001c 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume1 
+Device Description:
+ HID-compliant consumer control device 
+Device Location Path:
+ \\.\0000007b 
+Device Description:
+ Generic PnP Monitor 
+Device Location Path:
+ \\.\00000373 
+Device Description:
+ Generic PnP Monitor 
+Device Location Path:
+ \\.\00000374 
+Device Description:
+ Trusted Platform Module 2.0 
+Device Location Path:
+ \\.\00000022 
+Device Description:
+ ACPI Fixed Feature Button 
+Device Location Path:
+ \\.\0000003f 
+Device Description:
+ HID Keyboard Device 
+Device Location Path:
+ \\.\0000007a 
+Device Description:
+ High Definition Audio Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0032 
+Friendly Name:
+ Samsung SSD 970 EVO Plus 2TB 
+Device Description:
+ Disk drive 
+Device Location Path:
+ \\.\00000051 
+Friendly Name:
+ Samsung SSD 960 EVO 250GB 
+Device Description:
+ Disk drive 
+Device Location Path:
+ \\.\00000050 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0022 
+Device Description:
+ Motherboard resources 
+Device Location Path:
+ \\.\00000041 
+Device Description:
+ Motherboard resources 
+Device Location Path:
+ \\.\0000003c 
+Device Description:
+ Motherboard resources 
+Device Location Path:
+ \\.\0000003d 
+Friendly Name:
+ Microphone (Logitech BRIO) 
+Device Description:
+ Audio Endpoint 
+Device Location Path:
+ \\.\00000091 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\0000006f 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume9 
+Device Description:
+ USB Root Hub (USB 3.0) 
+Device Location Path:
+ \\.\USBPDO-1 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\00000074 
+Friendly Name:
+ Realtek Audio Effects Component 
+Device Description:
+ Realtek Audio Effects Component 
+Device Location Path:
+ \\.\00000066 
+Friendly Name:
+ Microsoft Print to PDF 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000aa 
+Friendly Name:
+ AirPods Pro Avrcp Transport 
+Device Description:
+ Microsoft Bluetooth Avrcp Transport Driver 
+Device Location Path:
+ \\.\00000260 
+Device Description:
+ VMware VMCI Host Device 
+Device Location Path:
+ \\.\00000011 
+Device Description:
+ HID-compliant consumer control device 
+Device Location Path:
+ \\.\00000077 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume2 
+Device Description:
+ Microsoft Bluetooth LE Enumerator 
+Device Location Path:
+ \\.\00000083 
+Device Description:
+ NVIDIA Virtual Audio Device (Wave Extensible) (WDM) 
+Device Location Path:
+ \\.\00000012 
+Device Description:
+ NvModuleTracker Device 
+Device Location Path:
+ \\.\00000013 
+Device Description:
+ NVVHCI Enumerator 
+Device Location Path:
+ \\.\00000014 
+Friendly Name:
+ HGST HUH721010ALE600 
+Device Description:
+ Disk drive 
+Device Location Path:
+ \\.\0000004b 
+Friendly Name:
+ Realtek(R) Audio 
+Device Description:
+ Realtek High Definition Audio 
+Device Location Path:
+ \\.\0000005c 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume3 
+Friendly Name:
+ Intel(R) Wireless-AC 9260 160MHz 
+Device Description:
+ Intel(R) Wireless-AC 9260 160MHz 
+Device Location Path:
+ \\.\NTPNP_PCI0042 
+Friendly Name:
+ Microsoft GS Wavetable Synth 
+Device Description:
+ Generic software device 
+Device Location Path:
+ \\.\00000092 
+Device Description:
+ ACPI Power Button 
+Device Location Path:
+ \\.\0000001f 
+Device Description:
+ Remote Desktop USB Hub 
+Device Location Path:
+ \\.\0000008c 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0019 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume10 
+Device Description:
+ NDIS Virtual Network Adapter Enumerator 
+Device Location Path:
+ \\.\00000015 
+Device Description:
+ Standard SATA AHCI Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0048 
+Device Description:
+ HID-compliant vendor-defined device 
+Device Location Path:
+ \\.\0000007f 
+Device Description:
+ HID Keyboard Device 
+Device Location Path:
+ \\.\00000075 
+Friendly Name:
+ Realtek Audio Universal Service 
+Device Description:
+ Realtek Audio Universal Service 
+Device Location Path:
+ \\.\00000069 
+Device Description:
+ Motherboard resources 
+Device Location Path:
+ \\.\00000042 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume7 
+Friendly Name:
+ Winflector Printer 
+Device Description:
+ Local Print Queue 
+Device Location Path:
+ \\.\000000a6 
+Device Description:
+ System speaker 
+Device Location Path:
+ \\.\00000047 
+Device Description:
+ HID-compliant consumer control device 
+Device Location Path:
+ \\.\0000006a 
+Device Description:
+ Microsoft System Management BIOS Driver 
+Device Location Path:
+ \\.\00000016 
+Device Description:
+ Standard NVM Express Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0041 
+Device Description:
+ USB Input Device 
+Device Location Path:
+ \\.\USBPDO-8 
+Friendly Name:
+ AirPods Pro Hands-Free AG 
+Device Description:
+ Microsoft Bluetooth Hands-Free Profile AudioGateway role 
+Device Location Path:
+ \\.\0000025e 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000034 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000035 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000036 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000037 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000038 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000039 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000003a 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000003b 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000024 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000025 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000026 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000027 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000028 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000029 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000002a 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000002b 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000002c 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000002d 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000002e 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\0000002f 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000030 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000031 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000032 
+Friendly Name:
+ AMD Ryzen 9 3900XT 12-Core Processor            
+Device Description:
+ AMD Processor 
+Device Location Path:
+ \\.\00000033 
+Device Description:
+ PCI standard host CPU bridge 
+Device Location Path:
+ \\.\NTPNP_PCI0024 
+Device Description:
+ PCI Express Downstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0035 
+Friendly Name:
+ Speakers (Realtek(R) Audio) 
+Device Description:
+ Audio Endpoint 
+Device Location Path:
+ \\.\00000090 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume5 
+Device Description:
+ Plug and Play Software Device Enumerator 
+Device Location Path:
+ \\.\00000017 
+Device Description:
+ Corsair Bus 
+Device Location Path:
+ \\.\00000018 
+Device Description:
+ Remote Desktop Device Redirector Bus 
+Device Location Path:
+ \\.\00000019 
+Device Description:
+ AMD PCI 
+Device Location Path:
+ \\.\NTPNP_PCI0044 
+Device Description:
+ Standard NVM Express Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0025 
+Friendly Name:
+ WAN Miniport (IPv6) 
+Device Description:
+ WAN Miniport (IPv6) 
+Device Location Path:
+ \\.\0000009e 
+Device Description:
+ PCI Express Downstream Switch Port 
+Device Location Path:
+ \\.\NTPNP_PCI0036 
+Friendly Name:
+ AirPods Pro Stereo 
+Device Description:
+ Microsoft Bluetooth A2dp Source 
+Device Location Path:
+ \\.\00000261 
+Friendly Name:
+ Bluetooth 
+Device Description:
+ Generic software device 
+Device Location Path:
+ \\.\0000008e 
+Friendly Name:
+ Winflector remote serial port (COM4) 
+Device Description:
+ Winflector remote serial port 
+Device Location Path:
+ \\.\0000001a 
+Device Description:
+ Volume 
+Device Location Path:
+ \\.\HarddiskVolume8 
+Device Description:
+ HID-compliant mouse 
+Device Location Path:
+ \\.\00000079 
+Friendly Name:
+ AMD USB 3.10 eXtensible Host Controller - 1.10 (Microsoft) 
+Device Description:
+ USB xHCI Compliant Host Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0046 
+Friendly Name:
+ WAN Miniport (L2TP) 
+Device Description:
+ WAN Miniport (L2TP) 
+Device Location Path:
+ \\.\0000009a 
+Friendly Name:
+ HGST HUH721010ALE600 
+Device Description:
+ Disk drive 
+Device Location Path:
+ \\.\0000004c 
+Device Description:
+ High Definition Audio Controller 
+Device Location Path:
+ \\.\NTPNP_PCI0028 

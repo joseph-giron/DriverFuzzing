@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9025: overriding '/Od' with '/O1'
+  LibFuzzDeviceIoControl.cpp
+     Creating library A:\vs_sucks\LibFuzzDeviceIoControl\x64\Debug\LibFuzzDeviceIoControl.lib and object A:\vs_sucks\LibFuzzDeviceIoControl\x64\Debug\LibFuzzDeviceIoControl.exp
+  LibFuzzDeviceIoControl.vcxproj -> A:\vs_sucks\LibFuzzDeviceIoControl\x64\Debug\LibFuzzDeviceIoControl.exe
